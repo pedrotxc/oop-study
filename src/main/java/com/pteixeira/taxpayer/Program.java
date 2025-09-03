@@ -1,4 +1,4 @@
-package com.pteixeira.taxpayer.entities;
+package com.pteixeira.taxpayer;
 
 import java.util.ArrayList;
 import java.util.List;

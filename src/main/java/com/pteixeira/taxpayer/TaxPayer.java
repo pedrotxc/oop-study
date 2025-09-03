@@ -1,4 +1,4 @@
-package com.pteixeira.taxpayer.entities;
+package com.pteixeira.taxpayer;
 
 public abstract class TaxPayer {
 
