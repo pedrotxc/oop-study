@@ -1,4 +1,4 @@
-package com.pteixeira.animal;
+package com.pteixeira.heranca_polimorfismo.animal;
 
 public class Passaro extends Animal {
 

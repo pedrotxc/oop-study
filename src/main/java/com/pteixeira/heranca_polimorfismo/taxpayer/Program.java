@@ -1,4 +1,4 @@
-package com.pteixeira.taxpayer;
+package com.pteixeira.heranca_polimorfismo.taxpayer;
 
 import java.util.ArrayList;
 import java.util.List;

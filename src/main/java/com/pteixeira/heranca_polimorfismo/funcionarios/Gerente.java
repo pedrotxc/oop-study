@@ -1,4 +1,4 @@
-package com.pteixeira.funcionarios;
+package com.pteixeira.heranca_polimorfismo.funcionarios;
 
 import java.math.BigDecimal;
 
